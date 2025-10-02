@@ -10,4 +10,6 @@ dependencies = [
     "ipykernel>=6.30.1",
     "ollama>=0.6.0",
     "openai>=1.109.1",
+    "pypdf2>=3.0.1",
+    "streamlit>=1.50.0",
 ]
